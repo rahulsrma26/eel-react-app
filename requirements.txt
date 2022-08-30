@@ -1,0 +1,6 @@
+bottle
+bottle-websocket
+future
+whichcraft
+pyinstaller
+eel

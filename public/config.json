@@ -1,0 +1,11 @@
+{
+    "vite": {
+        "port": 8889,
+        "host": "localhost"
+    },
+    "app": {
+        "port": 8888,
+        "host": "localhost",
+        "title": "Eel React App"
+    }
+}
